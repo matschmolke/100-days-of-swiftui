@@ -14,3 +14,4 @@ This repository documents my daily learning progress, code examples, mini-projec
 - [✅] Day 1 - Variables, constants, strings, and numbers (03.07.2025)
 - [✅] Day 2 - Booleans, string interpolation, and ***checkpoint 1*** (04.07.2025)
 - [✅] Day 3 - Arrays, dictionaries, sets, and enums (05.07.2025)
+- [✅] Day 4 - Type annotations and ***checkpoint 2*** (05.07.2025)

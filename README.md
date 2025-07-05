@@ -7,8 +7,10 @@ This repository documents my daily learning progress, code examples, mini-projec
 
 ## 📅 Progress
 
+- [✅] Day 0 - tips and advice before you start. (02.07.2025)
+
 ### Days 1-14: Introduction to Swift
 
-- [✅] Day 0 - tips and advice before you start. (02.07.2025)
 - [✅] Day 1 - Variables, constants, strings, and numbers (03.07.2025)
 - [✅] Day 2 - Booleans, string interpolation, and ***checkpoint 1*** (04.07.2025)
+- [✅] Day 3 - Arrays, dictionaries, sets, and enums (05.07.2025)

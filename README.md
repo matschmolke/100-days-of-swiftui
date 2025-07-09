@@ -16,3 +16,4 @@ This repository documents my daily learning progress, code examples, mini-projec
 - [✅] Day 3 - Arrays, dictionaries, sets, and enums (05.07.2025)
 - [✅] Day 4 - Type annotations and ***checkpoint 2*** (05.07.2025)
 - [✅] Day 5 - If, switch, and the ternary operator (07.07.2025)
+- [✅] Day 6 - Loops, summary, and ***checkpoint 3*** (09.07.2025)

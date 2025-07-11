@@ -18,3 +18,4 @@ This repository documents my daily learning progress, code examples, mini-projec
 - [✅] Day 5 - If, switch, and the ternary operator (07.07.2025)
 - [✅] Day 6 - Loops, summary, and ***checkpoint 3*** (09.07.2025)
 - [✅] Day 7 - Functions, parameters, and return values (10.07.2025)
+- [✅] Day 8 - Default values, throwing functions, and ***checkpoint 4*** (11.07.2025)

@@ -20,3 +20,4 @@ This repository documents my daily learning progress, code examples, mini-projec
 - [✅] Day 7 - Functions, parameters, and return values (10.07.2025)
 - [✅] Day 8 - Default values, throwing functions, and ***checkpoint 4*** (11.07.2025)
 - [✅] Day 9 - Closures, passing functions into functions, and ***checkpoint 5*** (13.07.2025)
+- [✅] Day 10 - Structs, computed properties, and property observers (15.07.2025)
